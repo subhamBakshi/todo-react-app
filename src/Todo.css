@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+html{
+    background-image: linear-gradient(to bottom right, #00d4ff, rgb(243, 243, 42));
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+body{
+    padding: 6% 20% 0 20%;
+    
+}
+
+.todo_list{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+}
+
+.todo_list button{
+    color: rgb(0, 110, 255);
+}
+
+.modal{
+    text-align: center;
+}
+
+.modal input{
+    font-size: 1.2em;
+}
+
+.modal Button{
+    background-color: rgb(230, 230, 230);
+}

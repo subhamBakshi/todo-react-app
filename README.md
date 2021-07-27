@@ -1,3 +1,8 @@
+# About the App
+This is a simple to-do app, with full CRUD functionality. This app is made using ReactJS, MaterialUI and Firebase Database🔥🚀
+
+Hosted Online at: https://todo-app-react-6f202.web.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
